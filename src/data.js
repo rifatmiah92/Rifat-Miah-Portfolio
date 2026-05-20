@@ -3,7 +3,7 @@ export const portfolioData = {
   designation: "Junior Frontend Developer",
   summary: "Dynamic MERN Stack Developer and CS student at Presidency University with a powerhouse portfolio of 40+ GitHub projects. I bridge the gap between creative UI/UX and efficient logic, backed by 50+ LeetCode problem-solving experience. From a 19-hour consecutive coding marathon to mastering Harvard SPR leadership modules, I bring grit, technical agility, and a passion for building future-proof web solutions.",
   photo: "/images/profile.jpg",
-  resumeLink: "https://drive.google.com/file/d/1y1sYXNE9BFRmRmdhpwI6ig73pnE8SpbP/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1VW3U7SuS7soRpUyEnZeLxHSRWfm2-YY6/view",
   socials: {
     github: "https://github.com/rifatmiah92",
     linkedin: "https://linkedin.com/in/rifat-miah-web-dev",
